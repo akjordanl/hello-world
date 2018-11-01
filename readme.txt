@@ -1,1 +1,2 @@
-null 
+Line 1
+Line 2
